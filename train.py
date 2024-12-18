@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
-# 作者：小土堆
-# 公众号：土堆碎念
+# Learning pytorch model
+# Jialun
 
 import torchvision
 from torch.utils.tensorboard import SummaryWriter
